@@ -1,0 +1,46 @@
+# Tooling / editor config
+.commandcode/
+.vscode/
+.ftp-deploy-sync-state.json
+
+# Brand source material (not part of the website build)
+AVICONIC Brand Design.pdf
+assets/Aviconic-AVC-Logo-Files/
+
+# Hosting placeholder
+default.php
+
+# Unused favicon SVGs (favicon.ico is used instead)
+favicon.svg
+faviconN.svg
+
+# Orphaned assets — old portfolio, legacy logos and icons no longer referenced
+assets/images/2.png
+assets/images/Hexgram.png
+assets/images/Hexometer.png
+assets/images/ID Card.jpg
+assets/images/Meetra.png
+assets/images/NFT Marketplace.jpg
+assets/images/Work.jpg
+assets/images/artify.jpg
+assets/images/ava4.png
+assets/images/bamzy.jpg
+assets/images/binance.jpg
+assets/images/dream.png
+assets/images/interchain.jpg
+assets/images/logo2.jpg
+assets/images/logo3.png
+assets/images/logo4.jpg
+assets/images/logo5.png
+assets/images/port1.png
+assets/images/port2.png
+assets/images/port3.png
+assets/images/port4.png
+assets/images/port5.png
+assets/images/port6.png
+assets/images/service-1.png
+assets/images/service-2.png
+assets/images/service-3.png
+assets/images/service-4.png
+assets/images/socio.jpg
+assets/images/sosia-main-logo.jpg
