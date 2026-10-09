@@ -76,3 +76,15 @@ const toggleAccordion = function () { this.classList.toggle("active"); }
 addEventOnElem(accordionAction, "click", toggleAccordion);
 
 
+
+/**
+ * dynamic copyright year
+ */
+
+const copyrightYear = document.querySelector("#copyright-year");
+
+if (copyrightYear) {
+  copyrightYear.textContent = new Date().getFullYear();
+}
+
+

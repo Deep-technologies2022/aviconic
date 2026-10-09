@@ -792,25 +792,17 @@ body {
   text-align: center;
   box-shadow: var(--shadow-1);
   border-radius: var(--radius-5);
-  max-width: 640px;
-  margin-inline: auto;
 }
 
 .product-icon {
-  width: 72px;
-  height: 72px;
   margin-inline: auto;
   margin-block-end: 20px;
-  border-radius: 16px;
-  background-color: var(--go-green_5);
-  display: grid;
-  place-items: center;
 }
 
-.product-icon ion-icon {
-  font-size: 36px;
-  color: var(--go-green);
-  pointer-events: none;
+.product-icon img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .product-card .card-title { margin-block-end: 12px; }
@@ -926,6 +918,10 @@ body {
   font-size: var(--fs-12);
   text-align: center;
   margin-block-end: 15px;
+}
+
+.copyright span {
+  display: inline;
 }
 
 .copyright-link {
